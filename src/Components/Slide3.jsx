@@ -15,15 +15,15 @@ function Slide3() {
     </div>
         <div className="cardscontainer">
             <div className="card">
-                <img src="src\assets\slide3logo1.png" alt="logo" />
+                <img src="https://i.ibb.co/VtN1q4T/slide3logo1.png" alt="logo" />
                 <div className="cardtext">Irrigation-as-a-Service</div>
             </div>
             <div className="card">
-                <img src="src\assets\slide3logo2.png" alt="logo" />
+                <img src="https://i.ibb.co/SQtNXJZ/slide3logo2.png" alt="logo" />
                 <div className="cardtext">Milling-as-a-Service</div>
             </div>
             <div className="card">
-                <img src="src\assets\slide3logo3.png" alt="logo" />
+                <img src="https://i.ibb.co/pQbvvVB/slide3logo3.png" alt="logo" />
                 <div className="cardtext">Climate-Smart Farmer Advisory</div>
             </div>
         </div>

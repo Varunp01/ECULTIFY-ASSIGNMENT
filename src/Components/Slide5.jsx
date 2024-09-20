@@ -46,8 +46,8 @@ function Slide5() {
           </div>
           <div className="col-span-2 row-span-2 col-start-2 row-start-2">
             <div className="slide5images mx-auto">
-              <img src="src\assets\slide 5 crop.png" alt="imagecrop" className='slide5crop' />
-              <img src="src\assets\slide 5 people.png" alt="imagepeople" className='slide5people' />
+              <img src="https://i.ibb.co/WyhGXXX/slide-5-crop.png" alt="imagecrop" className='slide5crop' />
+              <img src="https://i.ibb.co/bzyfpMV/slide-5-people.png" alt="imagepeople" className='slide5people' />
             </div>
           </div>
         </div>

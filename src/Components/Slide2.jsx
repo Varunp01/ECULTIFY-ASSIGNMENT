@@ -8,8 +8,8 @@ function Slide2() {
     <>
     <div className="Slide2">
       <div className="slide2background">
-        <img src="src\assets\slide2background2.png" alt="slide 2 aunty" className='slide2background2'/>
-        <img src="src\assets\slide2background1.png" alt="slide 2 background" className='slide2background1'/>
+        <img src="https://i.ibb.co/dMPRMQn/slide2background2.png" alt="slide 2 aunty" className='slide2background2'/>
+        <img src="https://i.ibb.co/VYgZR0m/slide2background1.png" alt="slide 2 background" className='slide2background1'/>
       </div>
       <div className="slide2content">
         <div className="slide2heading  mb-3 text-6xl font-bold">About <span className='underlineorange'>Us</span></div>

@@ -8,7 +8,7 @@ function Slide1() {
         <>
             <div className="Slide1Container">
                 <div className="Slide1Background">
-                <img src="src\assets\slide1background.png" alt="background"/>
+                <img src="https://i.ibb.co/XyHpx1m/slide1background.png" alt="background"/>
                 </div>
                 <div className="Slide1text">
                     <div className="Slide1Heading mb-3 text-6xl font-bold text-white">Energising <br /> Agriculture</div>
