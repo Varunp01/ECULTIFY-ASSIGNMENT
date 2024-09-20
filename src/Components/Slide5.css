@@ -1,0 +1,33 @@
+.gradient-background {
+    background-image: linear-gradient(to top right, #FAB114, #E75A25);
+    /* background-size: cover; */
+    /* background-position: center; */
+}
+/* .cellwidth150px{
+    width: 150px;
+} */
+
+.gradient-background-green {
+    background-image: linear-gradient(to bottom, #529C44, #88c57c);
+    /* background-size: cover; */
+    /* background-position: center; */
+}
+
+.slide5grid {
+    width: 60vw;
+    /* height: 50vh; */
+}
+.slide5gridcell{
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.251);
+}
+
+.slide5crop {
+    width: 500px;
+}
+
+.slide5people {
+    width: 400px;
+    position: absolute;
+    top: 2930px;
+}

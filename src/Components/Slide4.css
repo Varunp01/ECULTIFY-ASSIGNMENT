@@ -1,0 +1,15 @@
+.Slide4{
+    margin-top: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.Slide4img{
+    width: 100vw;
+}
+.underlineorange{
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-decoration-thickness: 3px;
+}

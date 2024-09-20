@@ -1,0 +1,25 @@
+.slide2background{
+    display: flex;
+    justify-content: space-between;
+}
+.slide2background1{
+    height: 100vh;
+    width: 100vw;
+    /* background-color: aqua; */
+}
+.slide2background2{
+    height: 100vh;
+    /* background-color: green; */
+}
+.slide2content{
+    position: absolute;
+    width: 40%;
+    font-family: "Poppins", sans-serif;
+    top: 900px;
+    left: 600px;
+}
+.underlineorange{
+    text-decoration: underline;
+    text-decoration-color: orange;
+    text-decoration-thickness: 3px;
+}

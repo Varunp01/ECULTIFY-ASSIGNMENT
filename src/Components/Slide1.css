@@ -1,0 +1,24 @@
+.Slide1Container{
+    /* background-image: url('src\assets\slide1background.png'); */
+  /* background-size: cover; */
+  /* background-position: center; */
+    /* position: relative; */
+    /* height: 100%; */
+    width: 100vw;
+    /* top: 80px; */
+  }
+  .Slide1text{
+  /* background-color: rgb(34, 255, 0); */
+  position: absolute;
+  width: 40%;
+  font-family: "Poppins", sans-serif;
+  top: 250px;
+  left: 30px;
+}
+Slide1Heading{
+  margin-bottom: 10px;
+}
+.Slide1Button{
+  width: 150px;
+  border-radius: 60px;
+}
