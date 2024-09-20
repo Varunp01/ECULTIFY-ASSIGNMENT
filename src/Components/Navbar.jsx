@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <>
     <div className="NavbarContainer">
-        <div className="navbarImage"><img src="https://i.ibb.co/jvdy464/logo.png" alt="Logo"/></div>
+        <div className="navbarImage"><img src="src\assets\logo.png" alt="Logo"/></div>
         <div className="navbarIcon md:flex hidden">Home</div>
         <div className="navbarIcon md:flex hidden">About us<i class="fa-solid fa-angle-down"></i></div>
         <div className="navbarIcon md:flex hidden">Services<i class="fa-solid fa-angle-down"></i></div>

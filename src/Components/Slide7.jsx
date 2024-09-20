@@ -10,7 +10,7 @@ function Slide7() {
     <>
       <div className="Slide7 text-center mx-auto my-4">
         <div className="slide7text  mb-3 text-6xl font-bold">Gallery</div>
-        <img src="https://i.ibb.co/jHcRhkn/slide7.png" alt="slide7" />
+        <img src="src\assets\slide7.png" alt="slide7" />
       </div>
     </>
   )
